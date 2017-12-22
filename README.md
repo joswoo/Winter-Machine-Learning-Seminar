@@ -17,5 +17,6 @@
 | 12    | 유병호 | hoya0824@naver.com     | 한밭대 |
 | 13    | 이종만 | leejongman93@gmail.com | 한밭대 |
 
-SUN | MON | TUE | WED | THU | FRI | SAT 
-  |  | 12/26 | 27 | 28 | 29 | 30 |
+SUN | MON | TUE | WED | THU | FRI | SAT
+--- | --- | --- | --- | --- | --- | ---
+ 12/24 | 25 | 26 | 27 | 28 | 29 | 30 
