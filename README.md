@@ -8,12 +8,12 @@
 2) 책에 있는 예제를 직접 실행하면서 그 결과를 보이고 해석하기 (발표 컴퓨터 준비 예정)
 
 ## Attendants
- Order | Name | E-mail                 |      | etc.      
+ Order | Name | E-mail                 | University | etc.      
  :---: | :--: | :--------------------- | :--: | :-------: 
  1     | 조성우 | josw1217@naver.com     | 인천대 | 1.20 ~ 24 
  2     | 김소연 | soyeon51696@naver.com  | 인천대 |           
- 3     | 장원진 | wonjin1008@naver.com   | 인천대 |           
- 4     | 박주영 | pjuy0525@naver.com     | 인천대 |           
+ 3     | 장원진 | wonjin1008@naver.com   | 인천대 | 1.5 ~ 9
+ 4     | 박주영 | pjuy0525@naver.com     | 인천대 | 12.24 ~ 29
  5     | 한지훈 | lphion96@naver.com     | 홍익대 |           
  6     | 이재진 | opiximeo@gmail.com     | 홍익대 |           
  7     | 양영권 | dora84@naver.com       | 중앙대 |           
@@ -31,4 +31,4 @@ SUN | MON | TUE | WED | THU | FRI | SAT
  12/24 | 25 | `26` | 27 | 28 | `29` | 30 
  31 | 1/1 | `2` | 3 | 4 | `5` | 6 
  7 | 8 | `9` | 10 | 11 | `12` | 13 
- 7 | 8 | `9` | 10 | 11 | `12` | 13 
+ 14 | 15 | `16` | 17 | 18 | `19` | 20 
