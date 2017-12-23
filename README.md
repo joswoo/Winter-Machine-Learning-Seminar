@@ -11,7 +11,7 @@
  Order | Name | E-mail                 | University | etc.      
  :---: | :--: | :--------------------- | :--: | :-------: 
  1     | 조성우 | josw1217@naver.com     | 인천대 | 1.20 ~ 24 
- 2     | 김소연 | soyeon51696@naver.com  | 인천대 |           
+ 2     | 김소연 | soyeon51696@naver.com  | 인천대 | 2.21 ~ 27
  3     | 장원진 | wonjin1008@naver.com   | 인천대 | 1.5 ~ 9
  4     | 박주영 | pjuy0525@naver.com     | 인천대 | 12.24 ~ 29
  5     | 한지훈 | lphion96@naver.com     | 홍익대 |           
