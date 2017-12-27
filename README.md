@@ -16,30 +16,31 @@
 ## Attendants
  Order | Name | E-mail                 | 소속 | 불참   
  :---: | :--: | :--------------------- | :--: | :-------: 
- 1     | 조성우 | josw1217@naver.com     | 인천대 | 1.20 ~ 24 
- 2     | 김소연 | soyeon51696@naver.com  | 인천대 | 2.21 ~ 27
- 3     | 장원진 | wonjin1008@naver.com   | 인천대 | 1.5 ~ 9
- 4     | 박주영 | pjuy0525@naver.com     | 인천대 | 12.24 ~ 29
+ 1     | 조성우 | josw1217@naver.com     | 인천대 | 01.20 ~ 01.24 
+ 2     | 김소연 | soyeon51696@naver.com  | 인천대 | 02.21 ~ 02.27
+ 3     | 장원진 | wonjin1008@naver.com   | 인천대 | 01.05 ~ 01.09
+ 4     | 박주영 | pjuy0525@naver.com     | 인천대 | 12.24 ~ 12.29
  5     | 한지훈 | lphion96@naver.com     | 홍익대 |           
  6     | 이재진 | opiximeo@gmail.com     | 홍익대 |           
- 7     | 양영권 | dora84@naver.com       | 중앙대 |           
- 8     | 박보랑 | pbr_1123@naver.com     | 중앙대 |           
- 9     | 최은지 | ejjchl77@gmail.com     | 중앙대 |           
+ 7     | 양영권 | dora84@naver.com       | 중앙대 | 12.27 ~ 01.02
+ 8     | 박보랑 | pbr_1123@naver.com     | 중앙대 | 12.28 ~ 01.01
+ 9     | 최은지 | ejjchl77@gmail.com     | 중앙대 | 12.28 ~ 01.01
  10    | 서병모 | sbm7470@gmail.com      | 한밭대 |           
  11    | 홍성협 | hsh6639@naver.com      | 한밭대 |           
  12    | 유병호 | hoya0824@naver.com     | 한밭대 |           
  13    | 이종만 | leejongman93@gmail.com | 한밭대 |
- 14    | 곽우정 | violin2003@naver.com   | 인천대 |
+ 14    | 곽우정 | violin2003@naver.com   | 인천대 | 01.01 ~ 01.25
 
 
 ## Seminar Date
 SUN | MON | TUE | WED | THU | FRI | SAT
 --- | --- | --- | --- | --- | --- | ---
- 12/24 | 25 | `26` | 27 | 28 | `29` | 30 
- 31 | 1/1 | `2` | 3 | 4 | `5` | 6 
- 7 | 8 | `9` | 10 | 11 | `12` | 13 
- 14 | 15 | `16` | 17 | 18 | `19` | 20 
+12/24 | 25 | `26` | 27 | 28 | `29` | 30 
+31 | 1/1 | `2` | 3 | 4 | `5` | 6 
+7 | 8 | `9` | 10 | 11 | `12` | 13 
+14 | 15 | `16` | 17 | 18 | `19` | 20 
 
 
 ## 발표자
-26일 - 홍성협
+- Chapter 1. What Is Machine Learning? (12.26 - 홍성협)
+- Chapter 2. End-to-End Machine Learning Project (12.29 -
