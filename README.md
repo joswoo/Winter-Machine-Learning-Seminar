@@ -25,7 +25,7 @@
  7     | 양영권 | dora84@naver.com       | 중앙대 | 12.27 ~ 01.02
  8     | 박보랑 | pbr_1123@naver.com     | 중앙대 | 12.28 ~ 01.01
  9     | 최은지 | ejjchl77@gmail.com     | 중앙대 | 12.28 ~ 01.01
- 10    | 서병모 | sbm7470@gmail.com      | 한밭대 |           
+ 10    | 서병모 | sbm7470@gmail.com      | 한밭대 | 01.09 ~ 01.12
  11    | 홍성협 | hsh6639@naver.com      | 한밭대 |           
  12    | 유병호 | hoya0824@naver.com     | 한밭대 |           
  13    | 이종만 | leejongman93@gmail.com | 한밭대 |
