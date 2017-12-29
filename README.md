@@ -29,18 +29,20 @@
  11    | 홍성협 | hsh6639@naver.com      | 한밭대 |           
  12    | 유병호 | hoya0824@naver.com     | 한밭대 |           
  13    | 이종만 | leejongman93@gmail.com | 한밭대 |
- 14    | 곽우정 | violin2003@naver.com   | 인천대 | 01.01 ~ 01.25
+ 14    | 곽우정 | violin2003@naver.com   | 인천대 | 01.01 ~ 01.25
+ 15    | 박준영 | 9851248@gmail.com      | 인천대 | 
 
 
 ## Seminar Date
 SUN | MON | TUE | WED | THU | FRI | SAT
---- | --- | --- | --- | --- | --- | ---
-12/24 | 25 | `26` | 27 | 28 | `29` | 30 
+:-: | :-: | :-: | :-: | :-: | :-: | :-:
 31 | 1/1 | `2` | 3 | 4 | `5` | 6 
 7 | 8 | `9` | 10 | 11 | `12` | 13 
-14 | 15 | `16` | 17 | 18 | `19` | 20 
+14 | 15 | `16` | 17 | 18 | `19` | 20
+21 | 22 | `23` | 24 | 25 | `26` | 27
 
 
 ## 발표자
 - Chapter 1. What Is Machine Learning? (12.26 - 홍성협)
-- Chapter 2. End-to-End Machine Learning Project (12.29 -
+- Chapter 2. End-to-End Machine Learning Project (12.29 - 이종만)
+- Chapter 3. Classification
