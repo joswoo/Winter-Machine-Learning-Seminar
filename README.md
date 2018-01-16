@@ -29,17 +29,14 @@
  8     | 박보랑 | pbr_1123@naver.com     | 중앙대 |
  9     | 최은지 | ejjchl77@gmail.com     | 중앙대 | 
  10    | 서병모 | sbm7470@gmail.com      | 한밭대 | 01.09 ~ 12
- 11    | 홍성협 | hsh6639@naver.com      | 한밭대 |           
- 12    | 유병호 | hoya0824@naver.com     | 한밭대 |           
- 13    | 이종만 | leejongman93@gmail.com | 한밭대 |
- 14    | 곽우정 | violin2003@naver.com   | 인천대 | 01.01 ~ 25
- 15    | 박준영 | 9851248@gmail.com      | 인천대 | 
+ 11    | 홍성협 | hsh6639@naver.com      | 한밭대 |             
+ 12    | 이종만 | leejongman93@gmail.com | 한밭대 |
+ 13    | 박준영 | 9851248@gmail.com      | 인천대 | 
 
 
 ## Seminar Date
 SUN | MON | TUE | WED | THU | FRI | SAT
 :-: | :-: | :-: | :-: | :-: | :-: | :-:
-7 | 8 | `9` | 10 | 11 | `12` | 13 
 14 | 15 | `16` | 17 | 18 | `19` | 20
 21 | 22 | `23` | 24 | 25 | `26` | 27
 28 | 29 | `30` | 31 | 2/1 | `2(X)` | 23
@@ -52,4 +49,6 @@ SUN | MON | TUE | WED | THU | FRI | SAT
 - Chapter 3. Classification (01.02 - 홍성협)
 - Chapter 4. Training Models (01.05 - 박보랑)
 - Chapter 5. Support Vector Machines(01.09 - 박보랑)
-- Chapter 6. Decision Trees(01.12 - 
+- Chapter 6. Decision Trees(01.12 - 박보랑)
+- Chapter 7. Ensemble Learning and Random Forests (01.16 - 김소연)
+- Chapter 8. Dimensionality Reduction (01.19 - 
