@@ -8,7 +8,7 @@
 2) 책에 있는 예제를 직접 실행하면서 그 결과를 보이고 해석하기(발표 컴퓨터 준비 예정)
 
 ## 시간 변동 안내
-- 2월 2일(금), 6일(화) 세미나는 없습니다.(인천대 연구실원들이 학회 및 동계 프로그램 참여로 인한 부재)
+- 1월 26일(금), 2월 2일(금), 6일(화) 세미나는 없습니다.(인천대 연구실원들이 학회 및 동계 프로그램 참여로 인한 부재)
 
 ## 파이썬 강좌
 - 생활코딩 Python & Ruby 강의 (우리말)
@@ -19,28 +19,25 @@
 ## Attendants
  Order | Name | E-mail                 | 소속 | 불참   
  :---: | :--: | :--------------------- | :--: | :-------: 
- 1     | 조성우 | josw1217@naver.com     | 인천대 | 01.20 ~ 24, 01.31 ~ 02.02
- 2     | 김소연 | soyeon51696@naver.com  | 인천대 | 01.31 ~ 02.02, 02.21 ~ 27
- 3     | 장원진 | wonjin1008@naver.com   | 인천대 | 01.31 ~ 02.02
- 4     | 박주영 | pjuy0525@naver.com     | 인천대 | 01.31 ~ 02.02
- 5     | 한지훈 | lphion96@naver.com     | 홍익대 |           
- 6     | 이재진 | opiximeo@gmail.com     | 홍익대 |           
- 7     | 양영권 | dora84@naver.com       | 중앙대 |
- 8     | 박보랑 | pbr_1123@naver.com     | 중앙대 |
- 9     | 최은지 | ejjchl77@gmail.com     | 중앙대 | 
- 10    | 서병모 | sbm7470@gmail.com      | 한밭대 | 01.09 ~ 12
- 11    | 홍성협 | hsh6639@naver.com      | 한밭대 |             
- 12    | 이종만 | leejongman93@gmail.com | 한밭대 |
- 13    | 박준영 | 9851248@gmail.com      | 인천대 | 
-
+ 1| 조성우 | josw1217@naver.com     | 인천대 | 01.20 ~ 24, 01.31 ~ 02.02
+ 2| 김소연 | soyeon51696@naver.com  | 인천대 | 01.31 ~ 02.02, 02.21 ~ 27
+ 3| 장원진 | wonjin1008@naver.com   | 인천대 | 01.31 ~ 02.02
+ 4| 박주영 | pjuy0525@naver.com     | 인천대 | 01.31 ~ 02.02
+ 5| 한지훈 | lphion96@naver.com     | 홍익대 |           
+ 6| 이재진 | opiximeo@gmail.com     | 홍익대 |           
+ 7| 양영권 | dora84@naver.com       | 중앙대 |
+ 8| 박보랑 | pbr_1123@naver.com     | 중앙대 |
+ 9| 최은지 | ejjchl77@gmail.com     | 중앙대 | 
+ 10| 박준영 | 9851248@gmail.com      | 인천대 | 
+ 11| 박재림 | dbahck200@gmail.com      | 인천대 |
 
 ## Seminar Date
 SUN | MON | TUE | WED | THU | FRI | SAT
 :-: | :-: | :-: | :-: | :-: | :-: | :-:
-14 | 15 | `16` | 17 | 18 | `19` | 20
-21 | 22 | `23` | 24 | 25 | `26` | 27
+21 | 22 | `23` | 24 | 25 | `26(X)` | 27
 28 | 29 | `30` | 31 | 2/1 | `2(X)` | 23
 4 | 5 | `6(X)` | 7 | 8 | `9` | 10
+11| 12 | `13` | 14 | 15 | `16(X)` | 17
 
 
 ## 발표자
@@ -51,4 +48,4 @@ SUN | MON | TUE | WED | THU | FRI | SAT
 - Chapter 5. Support Vector Machines(01.09 - 박보랑)
 - Chapter 6. Decision Trees(01.12 - 박보랑)
 - Chapter 7. Ensemble Learning and Random Forests (01.16 - 김소연)
-- Chapter 8. Dimensionality Reduction (01.19 - 
+- Chapter 8. Dimensionality Reduction (01.19 - 김소연)
