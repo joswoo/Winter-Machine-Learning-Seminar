@@ -19,7 +19,7 @@
 ## Attendants
  Order | Name | E-mail                 | 소속 | 불참   
  :---: | :--: | :--------------------- | :--: | :-------: 
- 1| 조성우 | josw1217@naver.com     | 인천대 | 01.20 ~ 24, 01.31 ~ 02.02
+ 1| 조성우 | josw1217@naver.com     | 인천대 | 01.31 ~ 02.02
  2| 김소연 | soyeon51696@naver.com  | 인천대 | 01.31 ~ 02.02, 02.21 ~ 27
  3| 장원진 | wonjin1008@naver.com   | 인천대 | 01.31 ~ 02.02
  4| 박주영 | pjuy0525@naver.com     | 인천대 | 01.31 ~ 02.02
@@ -49,3 +49,5 @@ SUN | MON | TUE | WED | THU | FRI | SAT
 - Chapter 6. Decision Trees(01.12 - 박보랑)
 - Chapter 7. Ensemble Learning and Random Forests (01.16 - 김소연)
 - Chapter 8. Dimensionality Reduction (01.19 - 김소연)
+- Chapter 9. Up and Running with TensorFlow (01.23 - 박주영)
+- Chapter 10. Introduction to Artificial Neural Networks (01.30 - 
