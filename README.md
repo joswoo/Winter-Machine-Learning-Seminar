@@ -8,7 +8,7 @@
 2) 책에 있는 예제를 직접 실행하면서 그 결과를 보이고 해석하기(발표 컴퓨터 준비 예정)
 
 ## 시간 변동 안내
-- 1월 26일(금), 2월 2일(금), 6일(화) 세미나는 없습니다.(인천대 연구실원들이 학회 및 동계 프로그램 참여로 인한 부재)
+- 2월 2일(금), 6일(화), 16(금) 세미나는 없습니다.(인천대 연구실원들이 학회 및 동계 프로그램 참여로 인한 부재)
 
 ## 파이썬 강좌
 - 생활코딩 Python & Ruby 강의 (우리말)
@@ -34,10 +34,10 @@
 ## Seminar Date
 SUN | MON | TUE | WED | THU | FRI | SAT
 :-: | :-: | :-: | :-: | :-: | :-: | :-:
-21 | 22 | `23` | 24 | 25 | `26(X)` | 27
 28 | 29 | `30` | 31 | 2/1 | `2(X)` | 23
 4 | 5 | `6(X)` | 7 | 8 | `9` | 10
-11| 12 | `13` | 14 | 15 | `16(X)` | 17
+11 | 12 | `13` | 14 | 15 | `16(X)` | 17
+18 | 19 | `20` | 21 | 22 | `23` | 24
 
 
 ## 발표자
@@ -50,4 +50,5 @@ SUN | MON | TUE | WED | THU | FRI | SAT
 - Chapter 7. Ensemble Learning and Random Forests (01.16 - 김소연)
 - Chapter 8. Dimensionality Reduction (01.19 - 김소연)
 - Chapter 9. Up and Running with TensorFlow (01.23 - 박주영)
-- Chapter 10. Introduction to Artificial Neural Networks (01.30 - 
+- Chapter 10. Introduction to Artificial Neural Networks (01.30 - 장원진)
+- Chapter 11. 
