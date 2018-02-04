@@ -52,9 +52,9 @@ SUN | MON | TUE | WED | THU | FRI | SAT
 - Chapter 9. Up and Running with TensorFlow (01.23 - 박주영)
 - Chapter 10. Introduction to Artificial Neural Networks (01.30 - 장원진)
 - Chapter 11. Training Deep Neural Nets (02.09 - 
-- Chapter 12. Distributing TensorFlow Across Devices and Servers (02.09 - 
-- Chapter 13. Convolutional Neural Networks (02.13 -  
-- Chapter 14. Recurrent Neural Networks (02.20 - 
-- Chapter 15. Autoencoders (02.23 -  
-- Chapter 16. Reinforcement Learning (02.27 - 
+- Chapter 12. Distributing TensorFlow Across Devices and Servers (02.13 - 
+- Chapter 13. Convolutional Neural Networks (02.20 -  
+- Chapter 14. Recurrent Neural Networks (02.23 - 
+- Chapter 15. Autoencoders (02.27 -  
+- Chapter 16. Reinforcement Learning (03.02 - 
 
