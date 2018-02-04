@@ -34,10 +34,10 @@
 ## Seminar Date
 SUN | MON | TUE | WED | THU | FRI | SAT
 :-: | :-: | :-: | :-: | :-: | :-: | :-:
-28 | 29 | `30` | 31 | 2/1 | `2(X)` | 23
 4 | 5 | `6(X)` | 7 | 8 | `9` | 10
 11 | 12 | `13` | 14 | 15 | `16(X)` | 17
 18 | 19 | `20` | 21 | 22 | `23` | 24
+25 | 26 | `27` | 28 | 3/1 | `2` | 3
 
 
 ## 발표자
@@ -51,4 +51,10 @@ SUN | MON | TUE | WED | THU | FRI | SAT
 - Chapter 8. Dimensionality Reduction (01.19 - 김소연)
 - Chapter 9. Up and Running with TensorFlow (01.23 - 박주영)
 - Chapter 10. Introduction to Artificial Neural Networks (01.30 - 장원진)
-- Chapter 11. 
+- Chapter 11. Training Deep Neural Nets (02.09 - 
+- Chapter 12. Distributing TensorFlow Across Devices and Servers (02.09 - 
+- Chapter 13. Convolutional Neural Networks (02.13 -  
+- Chapter 14. Recurrent Neural Networks (02.20 - 
+- Chapter 15. Autoencoders (02.23 -  
+- Chapter 16. Reinforcement Learning (02.27 - 
+
