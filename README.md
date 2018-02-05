@@ -12,7 +12,7 @@
 
 ## 2/6(금) 성과 발표 주제
 - 김소연 : Deep Learning based smile detection for mobile application
-- 박주영 : 
+- 박주영 : 자동화된 챗봇 기반 사건-연계 경험표집법(ESM)
 - 장원진 : 카카오 음성 인터페이스 디자인 사례
 - 조성우 : AI와 Robot 시대에 HCI/UX의 역할은 무엇일까?
 
@@ -23,19 +23,19 @@
 <https://github.com/codingeverybody/parallel-study-python-ruby>
 
 ## Attendants
- Order | Name | E-mail                 | 소속 | 불참   
- :---: | :--: | :--------------------- | :--: | :-------: 
- 1| 조성우 | josw1217@naver.com     | 인천대 | 01.31 ~ 02.02
- 2| 김소연 | soyeon51696@naver.com  | 인천대 | 01.31 ~ 02.02, 02.21 ~ 27
- 3| 장원진 | wonjin1008@naver.com   | 인천대 | 01.31 ~ 02.02
- 4| 박주영 | pjuy0525@naver.com     | 인천대 | 01.31 ~ 02.02
+ Order | Name | E-mail            | 소속 | 불참   
+ :---: | :--: | :-----------------| :--: | :-------: 
+ 1| 조성우 | josw1217@naver.com     | 인천대 | 
+ 2| 김소연 | soyeon51696@naver.com  | 인천대 | 02.21 ~ 27
+ 3| 장원진 | wonjin1008@naver.com   | 인천대 | 
+ 4| 박주영 | pjuy0525@naver.com     | 인천대 | 
  5| 한지훈 | lphion96@naver.com     | 홍익대 |           
  6| 이재진 | opiximeo@gmail.com     | 홍익대 |           
  7| 양영권 | dora84@naver.com       | 중앙대 |
  8| 박보랑 | pbr_1123@naver.com     | 중앙대 |
  9| 최은지 | ejjchl77@gmail.com     | 중앙대 | 
- 10| 박준영 | 9851248@gmail.com      | 인천대 | 
- 11| 박재림 | dbahck200@gmail.com      | 인천대 |
+ 10| 박준영 | 9851248@gmail.com     | 인천대 | 
+ 11| 박재림 | dbahck200@gmail.com   | 인천대 |
 
 ## Seminar Date
 SUN | MON | TUE | WED | THU | FRI | SAT
