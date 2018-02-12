@@ -37,6 +37,7 @@
  9| 최은지 | ejjchl77@gmail.com     | 중앙대 | 
  10| 박준영 | 9851248@gmail.com     | 인천대 | 
  11| 박재림 | dbahck200@gmail.com   | 인천대 |
+ 12| 최근호 | cgh2797@naver.com     | 인천대 |
 
 ## Seminar Date
 SUN | MON | TUE | WED | THU | FRI | SAT
