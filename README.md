@@ -10,6 +10,7 @@
 
 ## 시간 변동 안내
 - 2월 16(금) 세미나는 없습니다.(설연휴)
+- 2월 20(화) 세미나를 19(월)로 변경합니다.
 
 ## 2/6(금) 성과 발표 주제
 - 김소연 : Deep Learning based smile detection for mobile application
@@ -59,7 +60,7 @@ SUN | MON | TUE | WED | THU | FRI | SAT
 - Chapter 8. Dimensionality Reduction (01.19 - 김소연)
 - Chapter 9. Up and Running with TensorFlow (01.23 - 박주영)
 - Chapter 10. Introduction to Artificial Neural Networks (01.30 - 장원진)
-- Chapter 11. Training Deep Neural Nets (02.09 - 
+- Chapter 11. Training Deep Neural Nets (02.09 - 최은지)
 - Chapter 12. Distributing TensorFlow Across Devices and Servers (02.13 - 
 - Chapter 13. Convolutional Neural Networks (02.20 -  
 - Chapter 14. Recurrent Neural Networks (02.23 - 
