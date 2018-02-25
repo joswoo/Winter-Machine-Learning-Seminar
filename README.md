@@ -9,7 +9,10 @@
 2) 책에 있는 예제를 직접 실행하면서 그 결과를 보이고 해석하기(발표 컴퓨터 준비 예정)
 
 ## 시간 변동 안내
-- 2월 20(화) 세미나를 정상적으로 합니다.
+- 2월 27(화) 세미나를 26(월)으로 시간변동 있습니다.
+
+## 발표자료
+- 각 챕터별 발표자분들은 제 메일로 발표자료 보내주시기 바랍니다.
 
 ## 2/6(금) 성과 발표 주제
 - 김소연 : Deep Learning based smile detection for mobile application
@@ -39,9 +42,9 @@
 
 ## Seminar Date
 SUN | MON | TUE | WED | THU | FRI | SAT
-:-: | :-: | :-: | :-: | :-: | :-: | :-:
+:-: | :-: | :-: | :-: | :-: | :-: | :-:
 18 | 19 | `20` | 21 | 22 | `23` | 24
-25 | 26 | `27` | 28 | 3/1 | `2` | 3
+25 | `26` | 27(X) | 28 | 3/1 | `2` | 3
 
 
 ## 발표자
@@ -57,8 +60,8 @@ SUN | MON | TUE | WED | THU | FRI | SAT
 - Chapter 10. Introduction to Artificial Neural Networks (01.30 - 장원진)
 - Chapter 11. Training Deep Neural Nets (02.09 - 최은지)
 - Chapter 12. Distributing TensorFlow Across Devices and Servers (02.13 - 박주영)
-- Chapter 13. Convolutional Neural Networks (02.20 -  
-- Chapter 14. Recurrent Neural Networks (02.23 - 
-- Chapter 15. Autoencoders (02.27 -  
+- Chapter 13. Convolutional Neural Networks (02.20 - 박주영)
+- Chapter 14. Recurrent Neural Networks (02.23 - 조성우)
+- Chapter 15. Autoencoders (02.26 -  
 - Chapter 16. Reinforcement Learning (03.02 - 
 
