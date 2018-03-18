@@ -62,6 +62,6 @@ SUN | MON | TUE | WED | THU | FRI | SAT
 - Chapter 12. Distributing TensorFlow Across Devices and Servers (02.13 - 박주영)
 - Chapter 13. Convolutional Neural Networks (02.20 - 박주영)
 - Chapter 14. Recurrent Neural Networks (02.23 - 조성우)
-- Chapter 15. Autoencoders (02.26 -  
-- Chapter 16. Reinforcement Learning (03.02 - 
+- Chapter 15. Autoencoders (02.26 - 박주영)
+- Chapter 16. Reinforcement Learning (03.02 - 한지훈)
 
