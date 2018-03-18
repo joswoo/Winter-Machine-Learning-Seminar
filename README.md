@@ -8,17 +8,10 @@
 1) 책의 내용을 설명하고 그 내용에 대한 토론을 이끌고 주도하기
 2) 책에 있는 예제를 직접 실행하면서 그 결과를 보이고 해석하기(발표 컴퓨터 준비 예정)
 
-## 시간 변동 안내
-- 2월 27(화) 세미나를 26(월)으로 시간변동 있습니다.
 
 ## 발표자료
 - 각 챕터별 발표자분들은 제 메일로 발표자료 보내주시기 바랍니다.
 
-## 2/6(금) 성과 발표 주제
-- 김소연 : Deep Learning based smile detection for mobile application
-- 박주영 : 자동화된 챗봇 기반 사건-연계 경험표집법(ESM)
-- 장원진 : 카카오 음성 인터페이스 디자인 사례
-- 조성우 : AI와 Robot 시대에 HCI/UX의 역할은 무엇일까?
 
 ## 파이썬 강좌
 - 생활코딩 Python & Ruby 강의 (우리말)
@@ -26,11 +19,12 @@
 - 실습코드
 <https://github.com/codingeverybody/parallel-study-python-ruby>
 
+
 ## Attendants
- Order | Name | E-mail            | 소속 | 불참   
- :---: | :--: | :-----------------| :--: | :-------: 
+ Order | Name | E-mail            | 소속 |
+ :---: | :--: | :-----------------| :--: |
  1| 조성우 | josw1217@naver.com     | 인천대 | 
- 2| 김소연 | soyeon51696@naver.com  | 인천대 | 02.21 ~ 27
+ 2| 김소연 | soyeon51696@naver.com  | 인천대 |
  3| 장원진 | wonjin1008@naver.com   | 인천대 | 
  4| 박주영 | pjuy0525@naver.com     | 인천대 | 
  5| 한지훈 | lphion96@naver.com     | 홍익대 |           
@@ -40,11 +34,6 @@
  9| 최은지 | ejjchl77@gmail.com     | 중앙대 | 
  10| 박준영 | 9851248@gmail.com     | 인천대 | 
 
-## Seminar Date
-SUN | MON | TUE | WED | THU | FRI | SAT
-:-: | :-: | :-: | :-: | :-: | :-: | :-:
-18 | 19 | `20` | 21 | 22 | `23` | 24
-25 | `26` | 27(X) | 28 | 3/1 | `2` | 3
 
 
 ## 발표자
